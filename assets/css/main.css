@@ -2941,7 +2941,7 @@ input, select, textarea {
 			}
 
 				.gallery a.landscape img {
-					height: 30vw;
+					height: 100%;
 				}
 
 			.gallery a.portrait img {
